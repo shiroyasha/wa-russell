@@ -19,6 +19,6 @@
 
 # License
 
-[MIT](http://opensource.org/licenses/MIT) © [Jorge Bucaran][Author] et [al](https://github.com/bucaran/batman/graphs/contributors)
+[MIT](http://opensource.org/licenses/MIT) © [Jorge Bucaran][Author] et [al](https://github.com/bucaran/wahoo/graphs/contributors)
 [Author]: http://about.bucaran.me
 [Wahoo]: https://github.com/bucaran/wahoo
