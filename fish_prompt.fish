@@ -13,6 +13,6 @@ function fish_prompt
       or echo "$red➜ "
   end) " $cyan"(basename (prompt_pwd)) (begin
     echo "$blue git:("$normal(git_branch_name)"$blue)"
-    git_is_touched; and echo "$git_info$yellow ✗"
+    git_is_touched; and echo "$yellow✗"
   end)"$normal "
 end
